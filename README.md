@@ -18,7 +18,7 @@ A full-stack website uptime monitoring application that continuously checks the 
 
 ### Monitor Cards
 
-![Monitor Cards](images/monitor-list.png")
+![Monitor Cards](images/monitor-list.png)
 
 ---
 
