@@ -10,7 +10,7 @@ A full-stack website uptime monitoring application that continuously checks the 
 
 ### Dashboard
 
-![Dashboard]("images\dashboard.png")
+![Dashboard]("images/dashboard.png")
 
 ### Add Monitor
 
