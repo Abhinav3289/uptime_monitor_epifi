@@ -10,15 +10,15 @@ A full-stack website uptime monitoring application that continuously checks the 
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard]("C:\Users\Abhinav patel\Pictures\Screenshots\dashboard.png")
 
 ### Add Monitor
 
-![Add Monitor](./screenshots/add-monitor.png)
+![Add Monitor]("C:\Users\Abhinav patel\Pictures\Screenshots\add monitor.png")
 
 ### Monitor Cards
 
-![Monitor Cards](./screenshots/monitor-list.png)
+![Monitor Cards]("C:\Users\Abhinav patel\Pictures\Screenshots\monitor list.png")
 
 ---
 
